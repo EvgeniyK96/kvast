@@ -1,0 +1,48 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  min-width: 1040px;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  padding: 0;
+  margin: 0;
+  color: #404040;
+  background-color: white;
+}
+
+p {
+  margin: 0;
+}
+.heading {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  color: black;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.heading_mini {
+  font-size: 20px;
+  line-height: 30px;
+  font-style: normal;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.logo {
+  width: 140px;
+  height: 76px;
+  float: left;
+}
+

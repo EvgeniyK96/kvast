@@ -1,0 +1,14 @@
+.new-items__table {
+  border-collapse: collapse;
+  width: 150px;
+}
+.new-items__table td{
+  border: 1px solid #e5e5e5;
+  width: 60px;
+  font-weight: bold;
+  line-height: 40px;
+  padding: 0;
+  padding-left: 10px;
+  text-transform: uppercase;
+  color: black;
+}
